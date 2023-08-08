@@ -4,9 +4,11 @@ Project done  **Full Stack Software Engineering studies** at **cohort 18**.  in 
 
 ## Technologies
 * Tested on Ubuntu 20.04 LTS
+* 
 
 ## Files
 All of the following files are scripts:
+Bash
 
 | Filename | Description |
 | -------- | ----------- |
